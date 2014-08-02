@@ -12,7 +12,7 @@ end
 
   def is_today?
     if get_birthday == get_date
-    puts "Go Shawty, It's Your Birthday"
+    puts "Go Shawty, It's Your Birthday!!!"
 
   else
     puts "Well, Happy #{Time.new.strftime("%a")} to you, nevertheless"
